@@ -90,7 +90,7 @@ nav a:hover {
 }
 body {
 	background-color: palevioletred;
-	background-image: url(BG2.png);
+	background-image: url("bg2.png");
 	background-repeat: repeat;
 	background-size: none;
 }
